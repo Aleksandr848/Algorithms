@@ -4,7 +4,6 @@ from fractions import Fraction
 y = kx + b, проходящей через эти точки.
 
 """
-
 x1, y1 = int(input('Введите координаты х1: ')), int(input('Введите координату y1: '))
 x2, y2 = int(input('Введите координаты х2: ')), int(input('Введите координату y2: '))
 
