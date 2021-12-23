@@ -5,6 +5,7 @@
 Сумма чисел из примера: [‘C’, ‘F’, ‘1’], произведение - [‘7’, ‘C’, ‘9’, ‘F’, ‘E’].
 
 """
+
 import collections
 
 numbers16_list = collections.deque('0123456789ABCDEF')
